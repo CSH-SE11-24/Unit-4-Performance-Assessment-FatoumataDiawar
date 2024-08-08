@@ -1,0 +1,112 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar {
+  padding: 0 !important;
+
+}
+
+
+#Navbar {
+  background-color: #f2d4ab !important;
+}
+
+#black {
+  color: black !important;
+}
+
+.container {
+  text-align: center !important;
+}
+
+body {
+  background-color: #ffeed6 !important;
+
+}
+
+/* Margining for carousel */
+
+#carousel {
+  margin: 0px 100px auto !important;
+}
+
+.homepage {
+  color: #9f5409;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  background-color: #ffffff !important;
+  font-weight: 700px !important;
+}
+
+.AboutUS {
+  text-align: center;
+  color: #8b8a89;
+  font-family: "Dancing Script", cursive;
+  font-weight: 800px !important;
+  background-color: #ffffff !important;
+}
+
+.text,li {
+  text-align: center;
+  color: #9f5409 !important;
+  font-size: 20px;
+  margin: 20px;
+  font-family: "EB Garamond", serif;
+}
+
+/*Location tag  */
+#loco{
+  text-decoration: underline;
+  margin-bottom: 20px !important;
+}
+
+
+
+/*text on homepage  */
+.text1 {
+  color: #8b8a89 !important;
+  font-family: "EB Garamond", serif;
+  text-align: center;
+  text-decoration: underline #808080 !important;
+  margin: 20px;
+}
+
+.carImg {
+  width: 450px;
+  height: 450px;
+  margin: auto;
+  display: block !important;
+}
+
+.card-body{
+  background-color: #ffeed6 !important;
+}
+
+.homelinks{
+  color: #bc8a57;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  font-weight: 700px !important;
+}
+
+#bookingTitle{
+  color: #9f5409;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  background-color: #ffffff !important;
+  font-weight: 700px !important;
+  font-size: 35px;
+}
+
+#text3{
+  color: #bc8a57;
+  text-align: center;
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  font-weight: 700px !important;
+  margin: 20px;
+  text-decoration: underline!important;
+}
